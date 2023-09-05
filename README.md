@@ -16,10 +16,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Project Structure
 ### Clean Architecture
-Project example
 <p>
    <a aria-label="Document" href="https://github.com/ZiGOrnn/Clean-Architecture">
     <img alt="" src="https://img.shields.io/badge/Document-blue.svg?style=for-the-badge&logo=readme&labelColor=000000&logoWidth=20">
+  </a>
+</p>
+
+Project example
+<p>
+   <a aria-label="Search Engine" href="https://github.com/ZiGOrnn/search-engine">
+    <img alt="" src="https://img.shields.io/badge/Search%20Engine-blue.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20">
   </a>
 </p>
 <p>
