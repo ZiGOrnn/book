@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 334px;
+  width: 100%;
+}
+
+.email {
+  margin-bottom: 18px;
+}
+
+.password {
+  margin-bottom: 18px;
+}
+
+.btn {
+  margin-bottom: 18px;
+}
