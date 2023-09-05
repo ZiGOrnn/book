@@ -1,15 +1,40 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Demo
+
+<p>
+   <a aria-label="Book" href="https://book-five-lyart.vercel.app/">
+    <img alt="" src="https://img.shields.io/badge/Book-blue.svg?style=for-the-badge&logo=vercel&labelColor=000000&logoWidth=20">
+  </a>
+</p>
+
+<p>
+   <a aria-label="Ornn Finance" href="https://ornn-finance.netlify.app/">
+    <img alt="" src="https://img.shields.io/badge/Ornn%20Finance-palevioletred.svg?style=for-the-badge&logo=vercel&labelColor=000000&logoWidth=20">
+  </a>
+</p>
+
+## Demo
+
 ## Getting Started
+
+### Installation
+
+```bash
+$ npm install
+```
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+```
+
+run the production server:
+
+```bash
+npm run build
+npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
